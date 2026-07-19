@@ -192,12 +192,4 @@ This project is developed for educational and research purposes.
 ---
 
 ## 👨‍💻 Author
-
-**Rituraj**
-
-B.Tech Computer Science Engineering  
-Delhi Technical Campus (GGSIPU)
-
-GitHub: https://github.com/rituraj-cell
-
-LinkedIn: https://www.linkedin.com/in/rituraj-raj-761ab7380
+**Aishwarya**
